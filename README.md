@@ -9,6 +9,7 @@ This program implements a command Line Caesar cipher, both encoding and decoding
 This cipher is a substitution mechanism where every plaintext letter is replaced with another letter corresponding to a certain number of letters up or down the alphabet such that the final output cannot be easily deciphered without the key.
 
 ## Setup Instructions
+Clone 
 
 ## License
 (c) 2023 Omwono Hellen

@@ -2,12 +2,12 @@ package com.niawetu;
 
 //Caesar Cipher Application
 public class Cipher {
-    public static String encode(String message, int shift) {
+    public static String encode(String message, int key) {
         StringBuilder encodedMessage = new StringBuilder();
 
         for(char c : message.toCharArray()) {
             if (Character.isLetter(c)) {
-                char encodedChar = (char) (((c - 'a' + shift) % 26) + 'a');
+                char encodedChar = (char) (((c - 'a' + key) % 26) + 'a');
                 encodedMessage.append(encodedChar);
             } else {
                 encodedMessage.append(c);
@@ -16,8 +16,8 @@ public class Cipher {
             return
                     encodedMessage.toString();
         }
-        public static String decode(String message, int shift) {
-        return encode(message, 26 - shift);
+        public static String decode(String message, int key) {
+        return encode(message, 26 - key);
         }
 
     }

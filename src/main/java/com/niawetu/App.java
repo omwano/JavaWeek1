@@ -4,16 +4,16 @@ public class App {
     public static void main(String[] args) {
         Scanner scanner = new Scanner (System.in);
 
-        System.out.print ("Enter message: ");
+        System.out.print ("Enter your message here: ");
         String message = scanner.nextLine();
 
-        System.out.print ("Enter Shift value: ");
-        int shift = scanner.nextInt();
+        System.out.print ("Enter the key value: ");
+        int key = scanner.nextInt();
 
-         String encodedMessage = Cipher.encode(message, shift);
+         String encodedMessage = Cipher.encode(message, key);
          System.out.println("Encoded message: " + encodedMessage);
 
-        String decodedMessage = Cipher.decode(encodedMessage, shift);
+        String decodedMessage = Cipher.decode(encodedMessage, key);
 
         System.out.println("Decoded message: " + decodedMessage);
         scanner.close();
