@@ -10,10 +10,10 @@ public class App {
         System.out.print ("Enter the key value: ");
         int key = scanner.nextInt();
 
-         String encodedMessage = Cipher.encode(message, key);
+         String encodedMessage = Cipher.encode(message);
          System.out.println("Encoded message: " + encodedMessage);
 
-        String decodedMessage = Cipher.decode(encodedMessage, key);
+        String decodedMessage = Cipher.decode(encodedMessage,key);
 
         System.out.println("Decoded message: " + decodedMessage);
         scanner.close();

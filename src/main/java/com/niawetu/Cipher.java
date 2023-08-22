@@ -20,4 +20,8 @@ public class Cipher {
         return encode(message, 26 - key);
         }
 
+
+    public static String encode(String message) {
+        return message;
     }
+}
