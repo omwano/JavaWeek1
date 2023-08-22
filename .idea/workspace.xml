@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="428e91dc-c85a-40c5-a0d1-20b8f0c50f51" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niawetu/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niawetu/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niawetu/Cipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niawetu/Cipher.java" afterDir="false" />
-    </list>
+    <list default="true" id="428e91dc-c85a-40c5-a0d1-20b8f0c50f51" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +14,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,20 +50,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/Hellen/IdeaProjects/JavaWeek1/src/main/java/com/niawetu&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Hellen/Java_Ping_Pong_StarterCode&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Hellen/IdeaProjects/JavaWeek1/src/main/java/com/niawetu/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature/frontend",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_directory_selection": "C:/Users/Hellen/IdeaProjects/JavaWeek1/src/main/java/com/niawetu",
+    "last_opened_file_path": "C:/Users/Hellen/Java_Ping_Pong_StarterCode",
+    "onboarding.tips.debug.path": "C:/Users/Hellen/IdeaProjects/JavaWeek1/src/main/java/com/niawetu/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.niawetu.App" />
