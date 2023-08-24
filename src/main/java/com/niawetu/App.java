@@ -7,7 +7,7 @@ public class App {
         System.out.print ("Enter your message here: ");
         String message = scanner.nextLine();
 
-        System.out.print ("Enter the key value: ");
+        System.out.print ("Enter the  shift key value: ");
         int key = scanner.nextInt();
 
          String encodedMessage = Cipher.encode(message);
