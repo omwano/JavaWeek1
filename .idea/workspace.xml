@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="428e91dc-c85a-40c5-a0d1-20b8f0c50f51" name="Changes" comment="" />
+=======
+    <list default="true" id="428e91dc-c85a-40c5-a0d1-20b8f0c50f51" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+>>>>>>> 43e29f06dace4dacc614b3c4a16676a41a490b00
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +61,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "feature/frontend",
+=======
+    "git-widget-placeholder": "master",
+>>>>>>> 43e29f06dace4dacc614b3c4a16676a41a490b00
     "ignore.virus.scanning.warn.message": "true",
     "last_directory_selection": "C:/Users/Hellen/IdeaProjects/JavaWeek1/src/main/java/com/niawetu",
     "last_opened_file_path": "C:/Users/Hellen/Java_Ping_Pong_StarterCode",
